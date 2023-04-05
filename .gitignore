@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 *.csv
+*.db
 __pycache__/
 *.py[cod]
 *$py.class
@@ -8,6 +9,9 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+/notebooks
+/study
+/img
 .Python
 build/
 develop-eggs/
